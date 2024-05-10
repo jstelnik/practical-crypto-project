@@ -6,6 +6,8 @@
 **Research paper regarding our hybrid KEM: [Writeup.pdf](https://github.com/srest2021/practical-crypto-project/blob/main/Writeup.pdf)**  
 **Files with code changes: [kyber.go](https://github.com/srest2021/practical-crypto-project/blob/main/kyber.go) and [hybrid.go](https://github.com/srest2021/practical-crypto-project/blob/main/hybrid.go)**
 
+NOTE: We changed various files to handle the input/output and parsing of the identity and recipient files, but Kyber.go and Hybrid.go are the files containing actual encryption and decryption methods for security in age.
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FiloSottile/age/blob/main/logo/logo_white.svg">
